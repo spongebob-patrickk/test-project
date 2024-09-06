@@ -1,5 +1,6 @@
 import random
 def generate_word()->str:
+    #glkajgvlk;agh
     mylist=["paper","scissors","rock"]
     return random.choice(mylist)
 def user__prompt()->str:
